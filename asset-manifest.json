@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SiddhantKapadne/Ethereum-Lottery.git/static/css/main.d848fc34.chunk.css",
+    "main.js": "/SiddhantKapadne/Ethereum-Lottery.git/static/js/main.29f17963.chunk.js",
+    "main.js.map": "/SiddhantKapadne/Ethereum-Lottery.git/static/js/main.29f17963.chunk.js.map",
+    "runtime-main.js": "/SiddhantKapadne/Ethereum-Lottery.git/static/js/runtime-main.e6b389bd.js",
+    "runtime-main.js.map": "/SiddhantKapadne/Ethereum-Lottery.git/static/js/runtime-main.e6b389bd.js.map",
+    "static/js/2.0cf1373e.chunk.js": "/SiddhantKapadne/Ethereum-Lottery.git/static/js/2.0cf1373e.chunk.js",
+    "static/js/2.0cf1373e.chunk.js.map": "/SiddhantKapadne/Ethereum-Lottery.git/static/js/2.0cf1373e.chunk.js.map",
+    "index.html": "/SiddhantKapadne/Ethereum-Lottery.git/index.html",
+    "precache-manifest.30480271e5db1cdfe01317f55404a8a2.js": "/SiddhantKapadne/Ethereum-Lottery.git/precache-manifest.30480271e5db1cdfe01317f55404a8a2.js",
+    "service-worker.js": "/SiddhantKapadne/Ethereum-Lottery.git/service-worker.js",
+    "static/css/main.d848fc34.chunk.css.map": "/SiddhantKapadne/Ethereum-Lottery.git/static/css/main.d848fc34.chunk.css.map",
+    "static/js/2.0cf1373e.chunk.js.LICENSE.txt": "/SiddhantKapadne/Ethereum-Lottery.git/static/js/2.0cf1373e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6b389bd.js",
+    "static/js/2.0cf1373e.chunk.js",
+    "static/css/main.d848fc34.chunk.css",
+    "static/js/main.29f17963.chunk.js"
+  ]
+}
