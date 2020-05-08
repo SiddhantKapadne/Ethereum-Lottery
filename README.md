@@ -1,4 +1,4 @@
-Some Screenshots of the Project 
+##Some Screenshots of the Project 
 1. Home-page
 https://user-images.githubusercontent.com/64613286/81449485-fab0b880-919d-11ea-8b3d-ca3099e0395b.png
 2. Adding 1 Ether 
