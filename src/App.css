@@ -1,8 +1,15 @@
 .App {
   text-align: center;
-  background-color: #EF5455;
-  color: #FAD744;
-  height: 600px;
+  background-color: #f4f4f4;
+  /* color:  	#FF7F50; */
+  color: #AE1100;
+  height: 700px;
+  font-weight: 600;
+  font-family: 'Montserrat', sans-serif;
+  
+}
+body{
+  background-color: #f4f4f4;
 }
 
 .App-logo {
@@ -42,18 +49,37 @@
 
 .cards{
   height: auto;
-  width: 45%;
-	box-shadow: 2px 2px 25px 0px #000;
-  border-radius: 3px;
+  width: 35%;
+  border-radius: 50px;
+  background: #f4f4f4;
+  box-shadow:  35px 35px 70px #d7d7d7, 
+             -35px -35px 70px #ffffff;
   margin: auto;
-  padding: 10px 10px 10px 10px;
-	transform-origin: left center;
-  background-color: #2B3252;
-  color: #FAD744;
+  padding: 5px 5px 5px 5px;
+  transform-origin: left center;
+  color: #BABECC;
+  font-weight: 700;
+  /* color:  	#FF7F50; */
 }
 
 h2{
   text-align: center;
+}
+input{
+  border: none;
+  border-radius: 50px;
+  background: #f4f4f4;
+  box-shadow:  inset 4px 4px 8px #d7d7d7, 
+               inset -4px -4px 8px #ffffff;
+  width: 20%;
+  height: 40px;
+  text-align: center;
+  font-size: 25px;
+  color: #BABECC;
+}
+input:focus{
+  box-shadow:  inset 2px 2px 4px #d7d7d7, 
+  inset -2px -2px 4px #ffffff;
 }
 .form{
   text-align: center;
@@ -61,12 +87,19 @@ h2{
 
 .btn{
   border: none;
-  background-color: #FAD744;
-  color: #EF5455;
+  border-radius: 50px;
+  background: #f4f4f4;
+box-shadow:  4px 4px 8px #d7d7d7, 
+             -4px -4px 8px #ffffff;
+  color: #BABECC;
   overflow: hidden;
   margin: 1rem;
   padding: 0;
   text-transform: uppercase;
   width: 100px;
   height: 35px;
+}
+.btn:hover{
+  box-shadow:  2px 2px 5px #d7d7d7, 
+             -2px -2px 5px #ffffff;
 }

@@ -49,10 +49,9 @@ class App extends Component {
       <div className="App">
        <h1> Lottery </h1>
        <div className="cards">
-       <h4>Manager Account= {this.state.manager}</h4>
+       {/* <h4>Manager Account= {this.state.manager}</h4> */}
          <h4>Current Number of Players= {this.state.players.length}</h4>
          <h3>Prize Pool= {web3.utils.fromWei(this.state.balance, 'ether')} Ether</h3>
-         <hr />
          <form className="form" onSubmit={this.onSubmit}>
            <h2>Want To Try your Luck ?</h2>
            <div>
@@ -64,10 +63,8 @@ class App extends Component {
            </div>
            <button className="btn">Enter</button>
          </form>
-         <hr />
          <h4>Ready to Pick a Winner</h4>
          <button className="btn" onClick={this.onClick}>Go </button>
-         <hr />
          <h3>{this.state.message}</h3>
        </div>
       </div>
