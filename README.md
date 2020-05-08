@@ -1,3 +1,15 @@
+Some Screenshots of the Project 
+1. Home-page
+https://user-images.githubusercontent.com/64613286/81449485-fab0b880-919d-11ea-8b3d-ca3099e0395b.png
+2. Adding 1 Ether 
+https://user-images.githubusercontent.com/64613286/81449490-fbe1e580-919d-11ea-8a6a-50031b03e4d2.png
+3. Submitting 1 ether via Metamask Extension
+https://user-images.githubusercontent.com/64613286/81449492-fc7a7c00-919d-11ea-93df-43984fc0ff4d.png
+4. Checking Lottery Result (Requiers some gas transaction)
+https://user-images.githubusercontent.com/64613286/81449493-fd131280-919d-11ea-9df3-634ac1f4393d.png
+5. Money Deposited in Winners Account on Metamask 
+https://user-images.githubusercontent.com/64613286/81449494-fdaba900-919d-11ea-8788-3b0d8e7afabd.png
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
